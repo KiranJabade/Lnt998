@@ -11,3 +11,4 @@ Hitman Rohit.
 Today is wednesday.
 >>>>>>> branch-2
 After lunch we do not sleep.
+HTML is used to create static web pages.
