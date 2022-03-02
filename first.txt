@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 today is tuesday
 month is march
 year is 2022
 Pushpa is good movie.
+=======
+today is tuesday.
+month is march.
+year is 2022.
+an apple a day keeps doctor away.
+cat has 9 lives.
+Russia and Ukraine War.
+>>>>>>> branch-1
