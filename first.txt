@@ -2,3 +2,4 @@ today is tuesday
 month is march
 year is 2022
 Pushpa is good movie.
+Today is wednesday.
